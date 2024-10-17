@@ -1,9 +1,8 @@
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
-https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
 https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
-https://maho.chipsfuck.fish/api/v1/client/subscribe?token=2cb09e8bb6690258ceadf5cd8e5a57db
+https://mc.jiedianxielou.workers.dev
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 https://sub.nodeup.top/IBMQR/MXW62/JK?token=6545aa6679126b0b30fdc33a4fe5183a
-https://xhtoken.huyun.nl/api/v1/client/subscribe?token=9a96aca4868ae0012c3b82bec2cf82a9
+https://subs.zeabur.app/clash
+https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
