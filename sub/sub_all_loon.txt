@@ -1,6 +1,7 @@
 http://ly.ccwink.cc/api/v1/client/subscribe?token=74faf7ece2277eb094d5709e05ca1986
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://subs.zeabur.app/clash
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://sub.miaolianyun.vip/mly_sub?token=bb8d2654de827e86cee36879fd3c5697
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
 https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
