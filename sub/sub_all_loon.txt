@@ -1,6 +1,2 @@
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://followcloud.space/api/v1/client/subscribe?token=05ae947b0ceff9662d5a73fccc13cd35
-https://subscribe511295.fengqun.info/api/v1/client/subscribe?token=e33d1b99e2099eea6a9395cd2979136a
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
