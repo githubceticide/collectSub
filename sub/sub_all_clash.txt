@@ -1,7 +1,5 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=bb0b4de5961dc7baf37398cc24c45eb7
-https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
+https://pqjc.site/api/v1/client/subscribe?token=9e0446eff3b9760877be511303f6e1bf&amp;flag=meta
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://sub.xn--9kqt24a0kz.com/xiaomi?token=74741ae03b85a930b878fb7db9eba7b9
-https://subs.zeabur.app/clash
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://xn--fhqu06a8m1asto.icu/linju?token=b12082b5d7004322c953cfef00fed360
+https://xn--mesz9ptugxg.com/api/v1/client/subscribe?token=39346d0c963582a5c2084c341b774a17
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
