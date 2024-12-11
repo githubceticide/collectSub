@@ -1,7 +1,6 @@
+http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
-https://mc.jiedianxielou.workers.dev
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=d79b9ba05ab0c90ca329b99560cefbda
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
+http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
