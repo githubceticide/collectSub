@@ -1,6 +1,7 @@
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=35911e9a69a8bc49adf86904c16944ce
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://pqjc.site/api/v1/client/subscribe?token=77e092e239d1d097a0e7d2cf28b215fc&amp;flag=meta
-https://pqjc.site/api/v1/client/subscribe?token=e767135e00a58db0af9ab980ab5bebae
-https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=fa5f8fbbf4612457bce2411d06c8c3d5
+https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
+https://api.xinyo.vip/api/v1/client/subscribe?token=b0e5f918cf3c088dcfa65bf1f0a40ba1
+https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
+https://sub.xinyo.vip/api/v1/client/subscribe?token=afab256888ae6487f2287d22b21cb779
+https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
+https://subs.pithecia.com/api/v1/client/subscribe?token=eb235ba978096ae510540e8845ea2c70
+https://xn--2dk290r.xn--p8jhn1a2d1epgoe.com/api/v1/client/subscribe?token=a1487630e53b7ecd2f90bc6b3b669934
