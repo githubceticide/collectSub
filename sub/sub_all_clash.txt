@@ -1,5 +1,9 @@
-http://panda.xn--i8sx78aisa52z.com/api/v1/client/subscribe?token=6d6ce997bff58396d7e9760e7a56c3b1
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=84addb61c3a2639f5a2fa219771e6e9d
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://ss.81dlg.com/dy/ss?token=728548d2de400da7dc5e1c39c198919d
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
+https://api.touhou.center/sub/a817a5effa9865af/clash
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=7ec2921d512b10dfcd1dcf09b06e00de
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://www.louwangzhiyu.xyz/api/v1/client/subscribe?token=8d4b6141011de1d68e5aad95d6a61329
+https://xn--fhqu06a8m1asto.icu/linju?token=452218820b59174be3213ed661b9685a
