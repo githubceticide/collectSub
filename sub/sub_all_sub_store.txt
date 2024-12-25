@@ -56,6 +56,7 @@ https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bd
 https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
 https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
 https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
 https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
 https://cat.ikkt.cn/api/v1/client/subscribe?token=83d0fede9cd582b53b169c6feeea793d
