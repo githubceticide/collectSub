@@ -1,5 +1,9 @@
-https://maho.chipsfuck.fish/api/v1/client/subscribe?token=2cb09e8bb6690258ceadf5cd8e5a57db
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=cbb31425affb0704414d28c596a57d0e
+https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://dy.kuailejc.xyz/api/v1/client/subscribe?token=707cfdd1244ebb0dd75bf2cb48fe3610
+https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
+https://m4y2z.no-mad-world.club/link/NornheyemazUtarM?clash=3
+https://nn8qozmu.nn8qozmu.top/api/v1/client/subscribe?token=858a1ac7be61175c2af5a26c7da77e52
+https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=8174d6b23b52a904b276a7a545370e1b
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
